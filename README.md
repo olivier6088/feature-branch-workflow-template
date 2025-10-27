@@ -12,7 +12,7 @@ Bienvenue dans ce dépôt de TP Git ! Ce projet est conçu pour pratiquer le **w
 
 1. Clone ce dépôt :
    ```bash
-   git clone https://github.com/<ton-org>/feature-branch-workflow-template.git
+   git clone https://github.com/olivier6088/feature-branch-workflow-template.git
    cd feature-branch-workflow-template
    ```
 
