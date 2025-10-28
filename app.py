@@ -6,5 +6,9 @@ app = Flask(__name__)
 def home():
     return render_template('home.html')
 
-if __name__ == '__main__':
+@app.route('/contact')
+def contact():
+    return render_template('contact.html')
+
+if __name__ == "__main__":
     app.run(debug=True)
